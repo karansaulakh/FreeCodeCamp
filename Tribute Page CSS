@@ -1,0 +1,38 @@
+$blue: #a3d5d3;
+
+body {margin-top:50px;
+  margin-left:350px;
+  margin-bottom:10px;
+  color:white;
+  background-color: #705DCF;
+}
+.byline{
+  margin-left:220px;
+padding:0px;
+}
+.link{
+  color:#FFF33F;
+}
+.thumb{margin:20px;
+  margin-left:60px;
+  border: 1px red;}
+.img-desc{
+  font-family:Tahoma;
+  font-size:16px;
+  margin-left:250px;
+  margin-bottom:10px;
+}
+.Timeline{font: 40px Monteserrat red;
+  margin-top:20px;
+  margin-left:-10px;
+  margin-bottom:10px;
+}
+.quote{
+  font: 20px Sans serif ;
+  color:orange;
+}
+.end{
+  margin-left:-100px;
+  margin-bottom:50px;
+  font:24px Tahoma ;
+}
