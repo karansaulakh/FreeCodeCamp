@@ -1,0 +1,49 @@
+.nav{height:72px;
+  color:green;
+  background:orange;
+  padding:10px;
+  text-align:right;
+  font-size:16px;
+  font-family:Castellar;
+  font-color:red; 
+  border-bottom:1px green;
+}
+.intro{padding-top:10px;
+  background:#434;
+  height:280px;
+  color:white;
+  font-size:20px;
+  font-style:Monotype Corsiva;
+}
+.aside{
+  background:;
+  height:280px;
+}
+.avatar{
+  radius-square:25%;
+  border-radius:25%;
+}
+strong{
+  font-size:24px;
+}
+.pimg{
+  margin:20px;
+  padding:20px;
+}
+img{square-radius:25%;
+  margin-bottom:20px;
+  radius-square:25%;
+  border-radius:25%;
+}
+.cont{color:white;
+  height:400px;
+  background:#5e7;
+  margin-top:-20px;
+  text-align:center;
+}
+.butt
+{
+  background:#1a3;
+  width:80px;
+  height:40px;
+}
